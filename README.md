@@ -5,7 +5,7 @@ Previously, I have served as the GIS/Spatial Data Analyst for the Texas Democrat
 ******
 
 **Quick Facts**
-- 🔭 Most recently, I TA'd an urban sociology/GIS course - The Social Life of Neighborhoods - in which I helped students create a demographic and spatial profile of their chosen neighborhood and present it as an ArcGIS story map. View the [tutorials](https://bookdown.org/fis/social-life-of-neighborhoods/#) that I created for the course.
+- 🔭 Most recently, I TA'd an urban sociology course - The Social Life of Neighborhoods - in which I helped students create a demographic and spatial profile of their chosen neighborhood and present it as an ArcGIS story map. View the [tutorials](https://bookdown.org/fis/social-life-of-neighborhoods/#) that I created for the course.
 - 💻 I’m currently learning how to build websites with Blogdown/Bookdown/Distill and R Shiny. 
 - 🌱 I'm currently working as a research science intern at Intuit and completing my dissertation prospectus. 
 - 💬 Ask me about: GIS, R, Data Visualization

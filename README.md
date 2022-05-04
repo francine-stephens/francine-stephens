@@ -5,9 +5,9 @@ Previously, I have served as the GIS/Spatial Data Analyst for the Texas Democrat
 ******
 
 **Quick Facts**
-- 🔭 I finally created a personal [website](https://francine-stephens.github.io/) that displays my personal, educational, and professional background as well as my projects.
+- 🔭 I finally created a personal [website](https://francine-stephens.github.io/) that displays my personal, educational, and professional background as well as my projects. I recently completed a 10 month internship as a research scientist at Intuit.
 - 💻 I’m currently learning about computational text analysis methods. 
-- 🌱 I'm currently working as a research science intern at Intuit and completing my dissertation. 
+- 🌱 I'm currently teaching a pedagogy workshop for first year PhD students and completing my dissertation. 
 - 💬 Ask me about: GIS, R, Data Visualization
 - 😄 Pronouns: she/her
 

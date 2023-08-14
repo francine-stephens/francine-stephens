@@ -1,13 +1,13 @@
-👋 and welcome to my Github! My name is Francine Stephens. Currently, I am a PhD candidate in Sociology at Stanford University looking to defend my dissertation in August and transition to a data science/analyst role in industry. My research spans a wide array of topics - education, environmental justice, neighborhood change, political infrastructure, and crime - but the overarching motivation behind my projects is a passion for using geospatial data to address applied geographic and geospatial problems from drawing borders and boundaries to facility siting to resource allocation.
+👋 and welcome to my Github! My name is Francine, and I  am data professional with a social science PhD from Stanford University looking to transition to a data science/analyst role in the tech industry. My work stored in the repos shows my ability to nimbly ingest, clean, and analyze a variety of datasets - geospatial, satellite imagery, text files, web-based, and structured census/survey -  which is a result of my broad training in quantitative and qualitative data analysis. I have a passion for designing clear and compelling visualizations and finding ways to use location intelligence to solve problems. 
 
 Previously, I have served as a Research Scientist intern at Intuit and the GIS/Spatial Data Analyst for the Texas Democratic Party during the 2020 General Election cycle. Outside of work, I love spending time with my family, exercising, cooking vegan food, reading, and avidly following the NBA, especially the San Antonio Spurs and Denver Nuggets.
 
 ******
 
 **Quick Facts**
-- 🔭 I finally created a personal [website](https://francine-stephens.github.io/) that displays my personal, educational, and professional background as well as my projects. 
+- 🔭 I finally defended my doctoral dissertation. 
 - 💻 I’m currently job hunting. 
-- 🌱 I'm currently editing my dissertation and preparing to defend in August. 
+- 🌱 I'm currently updating my portfolio. 
 - 💬 Ask me about: GIS, R, Data Visualization
 - 😄 Pronouns: she/her
 

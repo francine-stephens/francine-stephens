@@ -5,7 +5,7 @@ Previously, I have served as a Research Scientist intern at Intuit and the GIS/S
 ******
 
 **Quick Facts**
-- 🔭 I finally defended my doctoral dissertation. 
+- 🔭 I defended my doctoral dissertation in August 2023. 
 - 💻 I am currently job hunting. 
 - 🌱 I am in the process of updating my portfolio. 
 - 💬 Ask me about: GIS, R, Data Visualization

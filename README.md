@@ -1,6 +1,6 @@
 👋 and welcome to my Github! My name is Francine, and I  am data professional with a social science PhD from Stanford University looking to transition to a data science/analyst role in the tech industry. My work stored in the repos shows my ability to nimbly ingest, clean, and analyze a variety of datasets - geospatial, satellite imagery, text files, web-based, and structured census/survey -  which is a result of my broad training in quantitative and qualitative data analysis. I have a passion for designing clear and compelling visualizations and finding ways to use location intelligence to solve problems. 
 
-Previously, I have served as a Research Scientist intern at Intuit and the GIS/Spatial Data Analyst for the Texas Democratic Party during the 2020 General Election cycle. Outside of work, I love spending time with my family, exercising, cooking vegan food, reading, and avidly following the NBA, especially the San Antonio Spurs and Denver Nuggets.
+Previously, I have worked as a Research Scientist at Intuit and the GIS/Spatial Data Analyst for the Texas Democratic Party during the 2020 General Election cycle. Outside of work, I love spending time with my family, exercising, cooking vegan food, reading, and avidly following the NBA, especially the San Antonio Spurs and Denver Nuggets.
 
 ******
 

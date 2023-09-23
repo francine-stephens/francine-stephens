@@ -7,7 +7,7 @@ Previously, I have worked as a Research Scientist at Intuit and the first GIS/Sp
 **Quick Facts**
 - 🔭 I defended my doctoral dissertation in August 2023. 
 - 💻 I am currently hunting for a job as a data scientist, data visualization specialist, or GIS specialist. 
-- 🌱 I am in the process of updating my portfolio. 
+- 🌱 I am currently updating and refining my portfolio. 
 - 💬 Ask me about: GIS, R, Data Visualization
 - 😄 Pronouns: she/her
 

@@ -6,7 +6,7 @@ Previously, I have worked as a Research Scientist at Intuit and the first GIS/Sp
 
 **Quick Facts**
 - 🔭 I defended my doctoral dissertation in August 2023. 
-- 💻 I am currently using R Shiny to make a dashboard of neighborhood demographics, psychographics, and housing indicators to help me find a neighborhood and home in Denver.
+- 💻 I am currently using R Shiny to make a dashboard of neighborhood characteristics to help me find a neighborhood and home in Denver.
 - 🌱 I am currently updating and refining my portfolio. 
 - 💬 Ask me about: GIS, R, Data Visualization
 - 😄 Pronouns: she/her
